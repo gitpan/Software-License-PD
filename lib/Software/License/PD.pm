@@ -3,7 +3,7 @@ use warnings;
 
 package Software::License::PD;
 BEGIN {
-  $Software::License::PD::VERSION = '1.000';
+  $Software::License::PD::VERSION = '1.001';
 }
 # ABSTRACT: Public Domain pseudo-license
 
@@ -55,7 +55,7 @@ Software::License::PD - Public Domain pseudo-license
 
 =head1 VERSION
 
-version 1.000
+version 1.001
 
 =head1 DESCRIPTION
 

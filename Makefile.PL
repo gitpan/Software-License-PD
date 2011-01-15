@@ -23,9 +23,10 @@ my %WriteMakefileArgs = (
   'NAME' => 'Software::License::PD',
   'PREREQ_PM' => {
     'Exporter' => '5.57',
+    'Software::License' => '0',
     'Test::More' => '0.62'
   },
-  'VERSION' => '1.000',
+  'VERSION' => '1.001',
   'test' => {
     'TESTS' => 't/*.t'
   }
